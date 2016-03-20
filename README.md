@@ -1,0 +1,2 @@
+# Java-Tweet-Crawler
+Developed a Java application to retrieve tweets from twitter using Twitter4j API. Collected these tweets over a week for various languages like English, Russian etc and Indexed on solr-5.3.0 for developing a relevant tweet retrieval system. In this application I used stanford-nlp package for content tagging which shows the known personalities and events in the retrieved relevant tweets.
